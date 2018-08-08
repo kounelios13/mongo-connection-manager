@@ -1,0 +1,16 @@
+{
+  "name": "mongo-connection-manager",
+  "version": "1.0.0",
+  "description": "Handle multiple connection to different mongodb databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "connection-manager",
+    "mongodb"
+  ],
+  "author": "Manos Kounelakis <pkounelios@gmail.com>",
+  "license": "MIT"
+}
