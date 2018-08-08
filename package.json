@@ -1,10 +1,11 @@
 {
   "name": "mongo-connection-manager",
-  "version": "1.0.0",
+  "version": "0.9.9",
   "description": "Handle multiple connection to different mongodb databases",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "jsdoc ."
   },
   "keywords": [
     "mongoose",
@@ -12,5 +13,19 @@
     "mongodb"
   ],
   "author": "Manos Kounelakis <pkounelios@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jsdoc": "^3.5.5"
+  },
+  "dependencies": {
+    "mongoose": "^5.2.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kounelios13/mongo-connection-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kounelios13/mongo-connection-manager/issues"
+  },
+  "homepage": "https://github.com/kounelios13/mongo-connection-manager#readme"
 }
