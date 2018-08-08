@@ -1,6 +1,6 @@
 {
   "name": "mongo-connection-manager",
-  "version": "0.9.9",
+  "version": "0.9.10",
   "description": "Handle multiple connection to different mongodb databases",
   "main": "index.js",
   "scripts": {
